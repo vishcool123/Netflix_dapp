@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/influencer.imbuefitness.com/static/css/main.8b24417e.chunk.css",
+    "main.js": "/influencer.imbuefitness.com/static/js/main.96f496d1.chunk.js",
+    "main.js.map": "/influencer.imbuefitness.com/static/js/main.96f496d1.chunk.js.map",
+    "runtime-main.js": "/influencer.imbuefitness.com/static/js/runtime-main.a1ef7b3b.js",
+    "runtime-main.js.map": "/influencer.imbuefitness.com/static/js/runtime-main.a1ef7b3b.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/influencer.imbuefitness.com/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.55ab3948.chunk.js": "/influencer.imbuefitness.com/static/js/2.55ab3948.chunk.js",
+    "static/js/2.55ab3948.chunk.js.map": "/influencer.imbuefitness.com/static/js/2.55ab3948.chunk.js.map",
+    "static/js/3.a6edd665.chunk.js": "/influencer.imbuefitness.com/static/js/3.a6edd665.chunk.js",
+    "static/js/3.a6edd665.chunk.js.map": "/influencer.imbuefitness.com/static/js/3.a6edd665.chunk.js.map",
+    "index.html": "/influencer.imbuefitness.com/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/influencer.imbuefitness.com/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.8b24417e.chunk.css.map": "/influencer.imbuefitness.com/static/css/main.8b24417e.chunk.css.map",
+    "static/js/2.55ab3948.chunk.js.LICENSE.txt": "/influencer.imbuefitness.com/static/js/2.55ab3948.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1ef7b3b.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.55ab3948.chunk.js",
+    "static/css/main.8b24417e.chunk.css",
+    "static/js/main.96f496d1.chunk.js"
+  ]
+}
